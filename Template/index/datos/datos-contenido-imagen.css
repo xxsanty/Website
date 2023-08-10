@@ -1,0 +1,9 @@
+.datos__contenido--imagen{
+    border-radius: solid 5px;
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}

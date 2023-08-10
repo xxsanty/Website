@@ -1,0 +1,10 @@
+.cabecera__contenido {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    text-decoration: none;
+    
+    
+}

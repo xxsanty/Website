@@ -1,0 +1,27 @@
+.datos__imagen {
+    display: flex;
+    width: 22%;
+    border: solid 1.5px;
+    padding: 5px;
+    border-radius: 100%;
+    align-items: center;
+
+}
+
+@media screen and (max-width: 920px) {
+    .datos__imagen {
+        width: 25%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .datos__imagen {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .datos__imagen {
+        width: 60%;
+    }
+}

@@ -1,0 +1,9 @@
+.footer__imagen{
+    width: 15%;
+    align-items: center;
+    transition: 0.5s;
+}
+
+.footer__imagen:hover{
+    transform:scale(1.1);
+}

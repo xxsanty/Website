@@ -1,0 +1,9 @@
+.datos__contenido{
+    border-top: solid 1px;
+    padding: 25px;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    
+}

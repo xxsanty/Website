@@ -1,0 +1,9 @@
+.proyectos{
+    position: relative;
+    z-index: 3;
+    justify-content: center;
+    display: flex;
+    margin: 50px;
+    text-decoration: none;
+
+}

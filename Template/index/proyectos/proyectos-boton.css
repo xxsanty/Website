@@ -1,0 +1,25 @@
+.proyectos__boton {
+    padding: 10px 100px 10px 100px;
+    font-family: var(--century);
+    text-transform: uppercase;
+    background: rgb(89, 0, 0);
+    background: radial-gradient(circle, rgba(89, 0, 0, 0.8226633738601824) 1%, rgba(194, 0, 0, 0) 72%, rgba(252, 176, 69, 0) 100%);
+    color: white;
+    border: solid 1px;
+    border-color: white;
+    position: relative;
+    z-index: 4;
+    transition: 0.4s;
+    top: 50px;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.proyectos__boton:hover {
+    border-color: #590000;
+    cursor: pointer;
+    color: #590000;
+    background: rgb(255, 255, 255);
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.8226633738601824) 1%, rgba(255, 255, 255, 0) 54%, rgba(252, 176, 69, 0) 100%);
+}

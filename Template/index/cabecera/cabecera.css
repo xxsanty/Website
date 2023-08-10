@@ -1,0 +1,12 @@
+.cabecera{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+    position: relative;
+    z-index: 3;
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,0) 7%, rgba(84,0,0,0.8864931610942249) 50%, rgba(255,255,255,0) 92%);
+
+
+}

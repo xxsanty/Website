@@ -1,0 +1,12 @@
+.inicio__contenido {
+    border: thick 1px;
+    position: relative;
+    border-left: none;
+    border-right: none;
+    border-color: white;
+    padding: 40px;
+    margin: 20px;
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,254,0.7231267507002801) 0%, rgba(255,255,254,0) 95%);    
+
+}

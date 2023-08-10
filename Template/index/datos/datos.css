@@ -1,0 +1,11 @@
+.datos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: relative;
+    z-index: 3;
+    color: white;
+    margin-left: 20% ;
+    margin-right: 20%;
+    top: 30px;
+}

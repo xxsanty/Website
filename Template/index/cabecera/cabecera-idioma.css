@@ -1,0 +1,17 @@
+.cabecera__idioma{
+    text-decoration: none;
+    color: white;
+    text-decoration-line: none;
+    text-decoration: none;
+    list-style: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.cabecera__enlace{
+    text-decoration: none;
+}
+
+.cabecera__idioma:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,7 @@
+.inicio__titulo {
+    text-align: center;
+    font-family: var(--century);
+    font-size: 20px;
+    font-weight: bold;
+    color: #590000;
+}
